@@ -1,0 +1,3 @@
+2022-10-17 17:05:01,483 log_1 INFO booting
+2022-10-17 17:05:01,483 log_2 INFO off
+2022-10-17 17:05:01,483 log_1 INFO booting
